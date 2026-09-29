@@ -1,6 +1,9 @@
 #MPU6050 Cube Visualizer
 Can be used to check if MPU6050 is working properly. The Arduino reads the gyro and sends the rotation over serial, and a Python script turns a 3D cube on screen to match.
 
+##Demo
+
+
 ##Tools Needed
 1. Arduino Uno (for this specific .ino file but can be adjusted according to any board)
 2. MPU6050 breakout board
