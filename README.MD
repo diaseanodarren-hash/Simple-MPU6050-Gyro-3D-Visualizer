@@ -2,7 +2,8 @@
 Can be used to check if MPU6050 is working properly. The Arduino reads the gyro and sends the rotation over serial, and a Python script turns a 3D cube on screen to match.
 
 ## Demo
-
+[<video src="demo.mp4?raw=true" controls width="100%">
+</video>](https://github.com/user-attachments/assets/40ebe7ae-746b-4d23-9eae-510af82b6e37)
 
 ## Tools Needed
 1. Arduino Uno (for this specific .ino file but can be adjusted according to any board)
